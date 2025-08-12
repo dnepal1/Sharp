@@ -6,9 +6,9 @@ namespace HelloWorldApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the C# program in Visual Studio Code!");
+            Console.WriteLine("Welcome to the C# program in Visual Studio Code! in macbook of dipesh");
 
-            Console.Write("Enter your name: ");
+            Console.Write("Enter your fullname: ");
             string name = Console.ReadLine();
 
             Console.Write("Enter your age: ");
