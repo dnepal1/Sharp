@@ -10,7 +10,9 @@ class MultiplicationTable
         Console.WriteLine($"Multiplication Table for {num}:");
         for (int i = 1; i <= 10; i++)
         {
-            Console.WriteLine($"{num} x {i} = {num * i}");
+            //Showing Mutiplication table of the provided number by user
+            
+            Console.WriteLine($"{num} x {i} = {num * i}" "Mutiplication Table");
         }
     }
 }
